@@ -1,0 +1,1 @@
+alert("Hello, This colorful page has been created only for understanding HTML layout. Thank you for visiting the repo.");
